@@ -1,0 +1,212 @@
+body {
+    background-color:white ;
+    background-attachment:fixed;
+}
+ .place {
+    width:75%;
+    position:absolute;
+    left:10%;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 200px;
+    background-color:gray;
+    height:600px;
+}
+.holdit{
+    
+    width:70%;
+    height:50%;
+    position:relative;
+    left:22%;
+    display:block;
+    margin:2%;
+}
+.holdit:hover{
+    opacity:0.5;
+}
+
+li a {
+    display: block;
+    color: black;
+    padding: 8px 16px;
+    text-decoration: none;
+    
+    
+}
+
+/* Change the link color on hover */
+li a:hover {
+    background-color: gray ;
+    opacity:0.2;
+    color: white;
+}
+.red{
+  float:left;
+  position: fixed;
+  margin-top: -45px;
+  
+}
+
+
+.hol {
+    width:20%;
+    height:30%;
+   position:relative;
+   left:80%;
+    display:block;
+    
+}
+
+   .videowrapper {
+	position: relative;
+	padding-bottom: 56.25%; /* 16:9 */
+	padding-top: 25px;
+	height: 0;
+  
+}
+.videowrapper iframe {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+}
+header{
+    border: 2px solid gray;
+    background-color:gray;
+    height:70px;
+    color:gray;
+    padding:20;
+    
+}
+.word{
+    color:black;
+    position:absolute;
+    top:0%;
+    right:30%;
+    font-size:50px;
+    
+    
+    
+}
+
+
+.p1 {
+    background-clip: white;
+    width: 0%;
+    margin-left:20%;
+    margin-top: 50;
+}
+
+.p2 {
+    background-clip: white;
+    width: 0%;
+    margin-left: 45%;
+    margin-top: -11%;
+    height: 130px;
+}
+
+.p3 {
+    background-clip: white;
+    width: 0%;
+    margin-left: 70%;
+    margin-top: -11%;
+    height: 130px;
+}
+
+.kids {
+  background-color: white;
+}
+
+.aa {
+  font-size: 20px;
+  margin-left: 260px;
+}
+
+.m {
+  font-size: 20px;
+  margin-left: 650px;
+  margin-bottom: -400px;
+}
+
+.mm {
+  font-size: 20px;
+  margin-left: 650px;
+}
+
+.active {
+  font-weight: border;
+  color: white;
+}
+
+
+.william{
+  width:20%;
+  height:90%;
+  float:left;
+  
+}
+
+.f1{
+  margin-left: 280px;
+  display:block;
+  margin-top: -570px;
+}
+ 
+ .f2 {
+   margin-left: 280px;
+   margin-top: -320px;
+ }
+
+.new{
+    font-size:30%;
+    position:absolute;
+    left:100px;
+    
+}
+.link{
+    position:absolute;
+    color:black;
+    left:60%;
+}
+   
+} 
+
+.image { 
+   position: relative; 
+   width: 100%; /* for IE 6 */
+}
+
+h2 { 
+   position: absolute; 
+   top: 60%; 
+   left: 30%; 
+   width: 100%; 
+   color:white;
+}
+ .fa{
+     background-color:gray;
+     opacity:0.4;
+     margin:1%;
+     margin-top:80%;
+     width:10%;
+     color:white;
+     
+     
+ }   
+ .fa-facebook{
+     color:blue;
+     font-size:150px;
+ }
+ 
+.william {
+    width: 200px;
+    border: 25px solid white;
+    padding: 25px;
+    margin: 70px;
+    
+}
+    
