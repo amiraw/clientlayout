@@ -1,0 +1,11 @@
+<html>
+
+<head>
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" href="styles/styles.css" type="text/css">
+    <script src="https://use.fontawesome.com/4e5cc71ee0.js"></script>
+</head>
+<header>
+    <img src="images/heart.png">
+    <h1 class="word">Million Acts of Love</h1>
+</header>
